@@ -41,7 +41,7 @@ header{
     justify-content: space-between;
     align-items: center;
     padding: 2rem 9%;
-    background:#fff; 
+    background: #ffffffc4; 
     backdrop-filter: blur(10px);
     transition: all 0.50 ease;
 
